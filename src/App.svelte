@@ -14,7 +14,7 @@
   <h2>
     Deployed with
     <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">
-      Vercel
+      Pavan
     </a>
     !
   </h2>
